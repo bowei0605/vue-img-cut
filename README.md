@@ -1,5 +1,3 @@
-# demo16
-
 > A Vue.js project
 
 ## Build Setup
@@ -7,6 +5,11 @@
 ``` bash
 # install dependencies
 npm install
+
+# install dependency
+npm install --save vue-imgcut
+npm install less-loader --save
+npm install less --save
 
 # serve with hot reload at localhost:8080
 npm run dev
