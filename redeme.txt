@@ -1,0 +1,5 @@
+1.  npm i 安装依赖
+2.  npm install --save vue-imgcut
+3.  npm install less-loader --save
+4.  npm install less --save
+5.  npm run dev
